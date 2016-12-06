@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{898B8618-4727-FAB5-E22A-B7CF286DA86C}") = "SpaceCatGame", "Assembly-CSharp-firstpass.csproj", "{03B49B71-890E-CDF5-029C-98DB5DB2B005}"
+EndProject
+Project("{898B8618-4727-FAB5-E22A-B7CF286DA86C}") = "SpaceCatGame", "Assembly-CSharp.csproj", "{3927D233-2DB5-4323-DC00-0C7EE2820C70}"
+EndProject
+Project("{898B8618-4727-FAB5-E22A-B7CF286DA86C}") = "SpaceCatGame", "Assembly-CSharp-Editor.csproj", "{9E6ABFDB-03DA-2D5F-C14F-08661088924D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B49B71-890E-CDF5-029C-98DB5DB2B005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B49B71-890E-CDF5-029C-98DB5DB2B005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B49B71-890E-CDF5-029C-98DB5DB2B005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B49B71-890E-CDF5-029C-98DB5DB2B005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3927D233-2DB5-4323-DC00-0C7EE2820C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3927D233-2DB5-4323-DC00-0C7EE2820C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3927D233-2DB5-4323-DC00-0C7EE2820C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3927D233-2DB5-4323-DC00-0C7EE2820C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6ABFDB-03DA-2D5F-C14F-08661088924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6ABFDB-03DA-2D5F-C14F-08661088924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6ABFDB-03DA-2D5F-C14F-08661088924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6ABFDB-03DA-2D5F-C14F-08661088924D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
